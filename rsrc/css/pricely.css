@@ -1,0 +1,204 @@
+/*!
+* Pricely v1.0
+*
+* Copyright 2013 - Forever, Weborithm.com
+*
+* Designed and built by Weborithm
+*/
+
+
+.pricely-chart:after, .pricely-chart:after, .pricely-pro:after, .pricely-chart-three:after, .panel-heading li:after { content: " "; display: table; clear: both; }
+
+
+/* Parent Pricely Holder */
+.pricely-chart-one {  }
+.pricely-chart-two {  }
+.pricely-chart-three {  }
+.pricely-chart-four {  }
+
+
+/* Fonts */
+.pricely-chart { font-family: 'Karla', sans-serif; }
+.pricely-chart h1, .pricely-chart h2, .pricely-chart h3, .pricely-chart h4, .pricely-chart h5, .pricely-chart h6 { font-family: 'Raleway', sans-serif; font-weight: 300; }
+.pricely-chart .glyphicon { color: #9b9b9b; }
+
+
+/* Vertical Alignment 
+#pricely-vertical { display: table; width: 100%; }
+#pricely-align { display: table-cell; vertical-align: middle; } */
+
+
+/* Headings */
+.pricely-chart .panel-heading { font-size: 22px; margin: 0; padding: 20px 20px; text-align: center; }
+.pricely-chart-one h3 span { display: block; font-size: 13px; font-weight: 300; letter-spacing: 0.5px; padding: 5px 0 0; text-transform: uppercase; }
+
+
+/* Headings Formatting */
+.pricely-label { display: block; font-size: 13px; letter-spacing: 1px; margin: 0 auto 10px; text-transform: uppercase; }
+.pricely-first-heading .pricely-label { font-weight: 600; }
+.pricely-figure { padding: 20px 0 30px; position: relative; }
+.pricely-currency { display: inline-block; font-size: 20px; font-weight: 400; position: absolute; top: 30px; }
+.pricely-amount { display: inline-block; font-size: 70px; line-height: 70px; padding: 0 0 0 17px; }
+.pricely-foreword { display: block; font-family: 'Karla', sans-serif; font-size: 14px; font-style: italic; padding: 0; }
+.pricely-paragraph { font-size: 14px; line-height: 20px; margin: 20px; text-align: left; }
+.pricely-paragraph span { font-size: 28px; }
+
+
+/* Headings - Backgrounds */
+.pricely-chart .with-diagonal { background-image: url(../img/diagonal-left.png); }
+.pricely-chart .with-featured-diagonal { background-image: url(../img/diagonal-right.png); font-weight: 600; }
+.pricely-chart .with-boxes { background-image: url(../img/boxes.png); }
+.pricely-chart .with-checks-1 { background-image: url(../img/checks_1.png); }
+.pricely-chart .with-checks-2 { background-image: url(../img/checks_2.png); }
+.pricely-chart .with-checks-3 { background-image: url(../img/checks_3.png); }
+
+
+/* Panel + Panel Header + Panel Footer */
+.pricely-chart .panel { margin: 0; }
+.pricely-chart-two .panel, .pricely-chart-two .panel-heading { border-radius: 0; }
+
+.pricely-chart .panel-footer { padding: 10px; }
+.pricely-chart-two .panel-footer { border-width: 0 1px 1px 1px; margin: 0px 0px 10px; padding: 0; border-radius: 0; }
+
+
+/* Collapse */
+.pricely-chart .panel-collapse p { margin: 10px 0; }
+
+
+/* Images */
+.pricely-chart .img-responsive { max-width: inherit; width: 100%; }
+
+
+/* Call to Action Buttons */
+.pricely-chart-one .pricely-call { }
+.pricely-chart-one .pricely-call a { font-size: 18px; }
+.col-md-2 .pricely-call a { font-size: 16px; /* Smaller font for narrow columsn */ }
+
+.pricely-chart-two .pricely-call {  }
+.pricely-chart-two .pricely-call a { font-size: 20px; }
+
+
+/* Pricely Indicators */
+ol.pricely-indicators { position: static; width: auto; margin: 0; padding: 0; text-align: right; }
+ol.pricely-indicators li.active { background: #f7931f; border-color: #f7931f; margin: 1px 3px; }
+ol.pricely-indicators li { background: #fff; border-color: #ebebeb; height: 12px; width: 12px; margin: 1px 3px; padding: 6px; }
+
+
+/* Tooltip */
+.tooltip { font-family: 'Karla', sans-serif; }
+.pricely-tooltip:hover { cursor: pointer; }
+
+
+/* Modal */
+.pricely-chart .modal p { margin: 0; }
+.pricely-chart .modal-body { padding: 0; }
+.pricely-chart .modal-body .thumbnail { border: 0; border-radius: 0; padding: 0; }
+.modal-backdrop.in { opacity: 0.5; filter: alpha(opacity=50); } 
+.pricely-chart .modal p.modal-text { padding: 10px 15px; }
+
+/* Buttons */
+.panel-footer .btn { line-height: 44px; }
+.btn-wide { border: 0; padding: 0; border-radius: 0; width: 100%; }
+
+
+/* Icons */
+.pricely-pro .glyphicon { display: block; text-align: center; }
+.pricely-pro .glyphicon { color: #3A87AD; }
+.pricely-pro .x { color: #B94A61; }
+
+
+/*===== Price Chart Specific =====*/
+
+  /* Classic */
+  
+  
+  /* Business */
+
+
+  /* Professional */
+  .pricely-pro .panel-heading { border-radius: 0; min-height: 120px; }
+  .pricely-pro li li.list-group-item { border-left-width: 1px; border-radius: 0; min-height: 45px; }
+  .pricely-pro li.pricely-first-heading li.list-group-item { border-left-width: 1px; border-radius: 0; min-height: 45px; }
+
+  .pricely-pro { list-style: none; margin: 0; padding: 0; }
+  .pricely-pro li.pricely-first-heading, .pricely-pro li.pricely-inner {  padding: 0; }
+
+  .pricely-pro .panel-heading { border-right: 1px solid #ddd; border-top: 1px solid #ddd; }
+  .pricely-pro li:first-child .panel-heading { border-left: 1px solid #ddd; }
+  
+  .pricely-professional li.list-group-item  .feature-hide { display: none; }
+  .pricely-professional li .glyphicon { display: inline-block; }
+  .pricely-professional li  .pricely-paragraph .glyphicon { display: block; }
+  .pricely-professional li.list-group-item { text-align: center; }
+  
+
+  /* Wizard */
+  .pricely-wizard { text-align: center; }
+
+  .pricely-wizard .dropdown-menu { -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; }
+  .pricely-wizard .dropdown-menu span { display: block; padding: 5px 10px; }
+  .pricely-wizard .pricely-inline { display: inline; }
+  
+  .pricely-wizard p.dropdown { background: #eee; border: 1px solid #fff; padding: 3px 9px; border-radius: 3px; text-align: left; }
+  .pricely-wizard p.dropdown:hover { background: #f9f9f9; border-color: #eee; color: #fff; }
+  .pricely-wizard p.dropdown  a:focus, .pricely-wizard p.dropdown  a:hover { text-decoration: none; }
+  .pricely-wizard p.dropdown span a {
+    -webkit-transition: 0.2s ease-in-out; /** Chrome & Safari **/
+    -moz-transition: 0.2s ease-in-out; /** Firefox **/
+    -o-transition: 0.2s ease-in-out; /** Opera **/ }
+  .pricely-wizard p.dropdown span a:hover { padding-left: 3px;
+    -webkit-transition: 0.2s ease-in-out; /** Chrome & Safari **/
+    -moz-transition: 0.2s ease-in-out; /** Firefox **/
+    -o-transition: 0.2s ease-in-out; /** Opera **/ text-decoration: none; }
+  .pricely-wizard p.pricely-wizard-selection { background: #5BC0DE; color: #fff; display: inline-block; margin: -1px 0 10px 0; padding: 3px 9px; text-transform: uppercase; border-radius: 3px; }
+  .pricely-wizard .tab-pane span.glyphicon { font-size: 24px; margin: 0 10px 0 0; position: relative; top: 7px; }
+  
+  .pricely-wizard .tab-inner { margin: 20px 0 0; padding: 0; }
+  .pricely-wizard .tab-inner-child { margin: 1px 0 0; padding: 20px 0 0; }
+  
+  .pricely-wizard .panel { border: 0 !important; border-radius: 0; box-shadow: none; padding: 0; }
+  .pricely-wizard .panel .panel-heading { border: 0; box-shadow: none; padding: 20px 0; }
+
+
+@media screen and (min-width:0\0) { /* Specific to IE */
+
+.pricely-currency { display: inline-block; font-size: 20px; font-weight: 400; position: relative; top: -30px; }
+.pricely-amount { font-size: 65px; line-height: 65px; }
+.pricely-chart .panel-footer { margin: 0 0 20px; padding: 0; }
+
+}
+
+
+@media screen and (max-width: 991px) {
+
+.pricely-chart-one { margin-bottom: 20px; }
+
+.tab-content { border-left: 0; }
+
+.pricely-pro li li.list-group-item { border-left-width: 1px; text-align: center; }
+
+.pricely-chart .panel-heading { padding: 15px 10px; }
+
+.pricely-pro .panel-heading { border-left: 1px solid #ddd; min-height: inherit; }
+
+.pricely-professional li.list-group-item .feature-hide { display: inline; padding: 0 0 0 10px; }
+
+.pricely-pro li.pricely-first-heading { display: none; }
+
+.pricely-pro .glyphicon { display: inline-block; text-align: center; }
+
+.pricely-foreword, .pricely-label { display: inline-block; margin: 0; }
+.pricely-foreword:before { content: " "; }
+
+}
+
+
+@media screen and (max-width: 767px) {
+
+#pricely-align { display: inherit; margin: 0 0 40px; vertical-align: none; }
+
+}
+
+.pricely-chart .list-group-item {
+  color: #386890;
+}

@@ -14,8 +14,10 @@
 <?php include_once 'panels/intro.html';?>
 <?php include_once 'panels/about.html';?>
 <?php include_once 'panels/program.html';?>
+<?php include_once 'panels/travel.html';?>
 <?php include_once 'panels/accomodation.html';?>
 <?php include_once 'panels/registration.html';?>
+<?php include_once 'panels/vichy.html';?>
 
   <!-- Map Section -->
   <div id="map"></div>

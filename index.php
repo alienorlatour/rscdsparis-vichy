@@ -1,26 +1,37 @@
+<?php
+if(isset($_GET['lang'])) {
+	if($_GET['lang'] == "fr") {
+		$lang = "fr";
+		$panels = "panelsfr";
+	} else {
+		$lang = "en";
+		$panels = "panels";
+	}
+}
+?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php echo $lang; ?>">
 
 <head>
 
-    <?php require_once 'panels/head.html'?>
+    <?php require_once $panels.'/head.html'?>
 
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-<?php require_once 'panels/navigation.html';?>
+<?php require_once $panels.'/navigation.html';?>
 
-<?php include_once 'panels/intro.html';?>
-<?php include_once 'panels/about.html';?>
-<?php include_once 'panels/program.html';?>
-<?php include_once 'panels/accomodation.html';?>
-<?php include_once 'panels/registration.html';?>
+<?php include_once $panels.'/intro.html';?>
+<?php include_once $panels.'/about.html';?>
+<?php include_once $panels.'/program.html';?>
+<?php include_once $panels.'/accommodation.html';?>
+<?php include_once $panels.'/registration.html';?>
 
   <!-- Map Section -->
   <div id="map"></div>
 
-  <?php include_once 'panels/contact.html';?>
+  <?php include_once $panels.'/contact.html';?>
 
 
   <!-- Footer -->

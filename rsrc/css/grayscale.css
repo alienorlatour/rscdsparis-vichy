@@ -374,3 +374,8 @@ body ul li {
 .in-progress {
    color: #ffc0a0;
 }
+
+.white-border {
+  border: grey thin solid;
+}
+}

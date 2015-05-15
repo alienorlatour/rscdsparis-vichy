@@ -1,13 +1,15 @@
 <?php
-if(isset($_GET['lang'])) {
-	if($_GET['lang'] == "fr") {
-		$lang = "fr";
-		$panels = "panelsfr";
-	} else {
-		$lang = "en";
-		$panels = "panels";
-	}
+error_reporting ( E_ALL );
+ini_set ( 'display_errors', 1 );
+
+if (isset ( $_GET ['fr'] )) {
+	$lang = "fr";
+	$panels = "panelsfr";
+} else {
+	$lang = "en";
+	$panels = "panels";
 }
+
 ?>
 <!DOCTYPE html>
 <html lang="<?php echo $lang; ?>">

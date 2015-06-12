@@ -73,13 +73,6 @@ function init() {
         icon: hotelImage
     });
     
-    var nations = new google.maps.Marker({
-        position: new google.maps.LatLng(46.121815, 3.418858),
-        map: map,
-        title: 'Les Nations ***',
-        icon: hotelImage
-    });
-    
     var grignan = new google.maps.Marker({
         position: new google.maps.LatLng(46.121295, 3.420500),
         map: map,
@@ -93,25 +86,5 @@ function init() {
         title: 'Moderne **',
         icon: hotelImage
     });
-    
-    var mercure = new google.maps.Marker({
-        position: new google.maps.LatLng(46.126504, 3.419777),
-        map: map,
-        title: 'Mercure ****',
-        icon: hotelImage
-    });
-    
-    var ibis = new google.maps.Marker({
-        position: new google.maps.LatLng(46.127745, 3.420132),
-        map: map,
-        title: 'Ibis **',
-        icon: hotelImage
-    });
-    
-    var chambord = new google.maps.Marker({
-        position: new google.maps.LatLng(46.126752, 3.429307),
-        map: map,
-        title: 'Chambord **',
-        icon: hotelImage
-    });
+
 }

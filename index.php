@@ -29,6 +29,7 @@ if (isset ( $_GET ['fr'] )) {
 <?php include_once $panels.'/program.html';?>
 <?php include_once $panels.'/travel.html';?>
 <?php include_once $panels.'/accommodation.html';?>
+<?php include_once $panels.'/fares.html';?>
 <?php include_once $panels.'/registration.html';?>
 <?php include_once $panels.'/vichy.html';?>
 

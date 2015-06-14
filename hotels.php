@@ -38,8 +38,6 @@
       <div class="container">
         <div class="col-lg-8 col-lg-offset-2 text-center">
           <h2>Hotels</h2>
-          <p>Vichy, being a popular spa town, offers numerous hotels both in the town itself and in the surrounding
-            countryside.</p>
           <p>
             We have negotiated special offers with three of the hotels which are within walking distance of the Palais
             des Congrès. Details are given below. To obtain these special rates, when contacting the hotel to reserve
@@ -47,8 +45,6 @@
           </p>
           <p>If you are travelling by car, few hotels have their own car park but public car parking is available at
             around 7€/10€ per night or check with the hotel on the ease of street parking.</p>
-          <p>Note that Easter marks the beginning of the tourist season, so it is strongly recommended that you reserve
-            hotel accommodation sufficiently well in advance once your application for Vichy has been accepted.</p>
           <a href="#map" class="btn btn-default btn-lg page-scroll"><i class="fa fa-map-marker fa-fw"></i> <span
             class="network-name">See the map</span></a>
         </div>
@@ -59,8 +55,10 @@
   <section class="content-section">
     <div class="intro-section">
       <div class="separator col-md-12">
-        <p class="col-md-offset-2 col-md-8 text-center">Rates for room + breakfast. Taxes given for 2015, per night, per
-          person.<br/>Special offers are open until 31st of January 2016.</p>
+        <p class="col-md-offset-2 col-md-8 text-center">
+          Rates for room + breakfast. Taxes given for 2015, per night, per person.<br />Special offers are open until
+          31st of January 2016.
+        </p>
         <div class="pricely-chart">
           <section class="col-xs-12">
             <ul class="pricely-pro">
@@ -100,8 +98,8 @@
                 </h3>
                 <ul class="list-group">
                   <li class="list-group-item">3 min.</li>
-                  <li class="list-group-item">50€ (20m2), 43.50€ (12m2)</li>
-                  <li class="list-group-item">89€ (20m2), 78€ (12m2)</li>
+                  <li class="list-group-item">50€*, 43.50€</li>
+                  <li class="list-group-item">89€*, 78€</li>
                   <li class="list-group-item">1.25€</li>
                   <li class="list-group-item">Free (20 spaces)</li>
                   <li class="list-group-item">7 place Sévigné</li>
@@ -127,6 +125,10 @@
             </ul>
           </section>
         </div>
+        <p class="col-md-offset-2 col-md-8 text-center small">
+          * The Hotel de Grignan offers recently renovated and modernised Premium rooms (20m<sup>2</sup>) as well as
+          Standard rooms.
+        </p>
       </div>
     </div>
   </section>

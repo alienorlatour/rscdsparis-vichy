@@ -25,7 +25,7 @@
             <a href="#page-top"></a>
           </li>
           <li>
-            <a href="index.php"><i class="fa fa-angle-double-left"></i> Retour</a>
+            <a href="index.php#accommodation"><i class="fa fa-angle-double-left"></i> Retour</a>
           </li>
         </ul>
       </div>

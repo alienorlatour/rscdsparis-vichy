@@ -56,7 +56,7 @@
     <div class="intro-section">
       <div class="separator col-md-12">
         <p class="col-md-offset-2 col-md-8 text-center">
-          Rates for room + breakfast. Taxes given for 2015, per night, per person.<br />Special offers are open until
+          Rates per person including breakfast. Taxes given for 2015, per night, per person.<br />Special offers are open until
           31st of January 2016.
         </p>
         <div class="pricely-chart">

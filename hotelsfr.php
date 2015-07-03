@@ -25,7 +25,7 @@
             <a href="#page-top"></a>
           </li>
           <li>
-            <a href="index.php#accommodation"><i class="fa fa-angle-double-left"></i> Retour</a>
+            <a href="index.php?fr#accommodation"><i class="fa fa-angle-double-left"></i> Retour</a>
           </li>
         </ul>
       </div>
@@ -39,14 +39,14 @@
         <div class="col-lg-8 col-lg-offset-2 text-center">
           <h2>Hotels</h2>
           <p>
-            We have negotiated special offers with three of the hotels which are within walking distance of the Palais
-            des Congrès. Details are given below. To obtain these special rates, when contacting the hotel to reserve
-            rooms, please state that you are participating in the <b>Scottish Country Dancing Weekend, Easter 2016</b>.
+            Nous avons négocié des tarifs spéciaux avec trois des hôtels proches du Palais des Congrès (voir ci-dessous). 
+            Pour bénéficier de ces tarifs, il suffit de mentionner à l’hôtel de votre choix que vous participez au 
+            weekend de danses écossaises de Pâques 2016.</b>.
           </p>
-          <p>If you are travelling by car, few hotels have their own car park but public car parking is available at
-            around 7€/10€ per night or check with the hotel on the ease of street parking.</p>
+          <p>Peu d’hôtels ont leur propre parking, mais il y a des parkings publics de 7 à 10 euros la nuit, 
+          et vous pouvez demander à votre hôtel s’il est possible de se garer dans la rue.</p>
           <a href="#map" class="btn btn-default btn-lg page-scroll"><i class="fa fa-map-marker fa-fw"></i> <span
-            class="network-name">See the map</span></a>
+            class="network-name">Voir la carte</span></a>
         </div>
       </div>
     </div>
@@ -56,8 +56,8 @@
     <div class="intro-section">
       <div class="separator col-md-12">
         <p class="col-md-offset-2 col-md-8 text-center">
-          Rates for room + breakfast. Taxes given for 2015, per night, per person.<br />Special offers are open until
-          31st of January 2016.
+          Prix d’une chambre avec petit déjeuner. Tarifs 2015, par nuit, par personne.<br />Les offres spéciales sont 
+          disponibles jusqu’au 31 janvier 2016.
         </p>
         <div class="pricely-chart">
           <section class="col-xs-12">
@@ -65,27 +65,27 @@
               <li class="pricely-first-heading panel-success col-md-offset-1 col-md-2 text-center">
                 <h3 class="panel-heading"></h3>
                 <ul class="list-group">
-                  <li class="list-group-item">Walking time</li>
-                  <li class="list-group-item">2 sharing</li>
-                  <li class="list-group-item">single</li>
-                  <li class="list-group-item">Local tax</li>
-                  <li class="list-group-item">Car park</li>
-                  <li class="list-group-item">Address</li>
-                  <li class="list-group-item">Tel.</li>
+                  <li class="list-group-item">Temps de marche</li>
+                  <li class="list-group-item">Chambre à 2</li>
+                  <li class="list-group-item">Chambre simple</li>
+                  <li class="list-group-item">Taxe de séjour</li>
+                  <li class="list-group-item">Parking</li>
+                  <li class="list-group-item">Adresse</li>
+                  <li class="list-group-item">Tél.</li>
                 </ul>
               </li>
 
               <li class="pricely-inner panel-info col-xs-6 col-md-3 text-center">
                 <h3 class="panel-heading">
                   <span class="pricely-label">Aletti<br />****
-                  </span> <a href="http://www.hotel-aletti.fr/en/" class="btn btn-info" target="_blank">Website</a>
+                  </span> <a href="http://www.hotel-aletti.fr/en/" class="btn btn-info" target="_blank">Site web</a>
                 </h3>
                 <ul class="list-group">
                   <li class="list-group-item">2 min.</li>
                   <li class="list-group-item">50€</li>
                   <li class="list-group-item">90€</li>
                   <li class="list-group-item">2€</li>
-                  <li class="list-group-item">200m, 7€/day</li>
+                  <li class="list-group-item">200m, 7€/jour</li>
                   <li class="list-group-item">3 place Joseph Aletti</li>
                   <li class="list-group-item">+33 (0)4 70 30 20 20</li>
                 </ul>
@@ -94,14 +94,14 @@
               <li class="pricely-inner panel-success col-xs-6 col-md-3 text-center">
                 <h3 class="panel-heading">
                   <span class="pricely-label">De Grignan<br />***
-                  </span> <a href="http://www.hoteldegrignan.fr/" class="btn btn-success" target="_blank">Website</a>
+                  </span> <a href="http://www.hoteldegrignan.fr/" class="btn btn-success" target="_blank">Site web</a>
                 </h3>
                 <ul class="list-group">
                   <li class="list-group-item">3 min.</li>
                   <li class="list-group-item">50€*, 43.50€</li>
                   <li class="list-group-item">89€*, 78€</li>
                   <li class="list-group-item">1.25€</li>
-                  <li class="list-group-item">Free (20 spaces)</li>
+                  <li class="list-group-item">Free (20 places)</li>
                   <li class="list-group-item">7 place Sévigné</li>
                   <li class="list-group-item">+33 (0)4 70 32 08 11</li>
                 </ul>
@@ -110,7 +110,7 @@
               <li class="pricely-inner panel-info col-xs-6 col-md-3 text-center">
                 <h3 class="panel-heading">
                   <span class="pricely-label">Hotel Moderne<br />**
-                  </span> <a href="http://www.hotelmoderne-vichy.fr/" class="btn btn-info" target="_blank">Website</a>
+                  </span> <a href="http://www.hotelmoderne-vichy.fr/" class="btn btn-info" target="_blank">Site web</a>
                 </h3>
                 <ul class="list-group">
                   <li class="list-group-item">7 min.</li>
@@ -126,8 +126,7 @@
           </section>
         </div>
         <p class="col-md-offset-2 col-md-8 text-center small">
-          * The Hotel de Grignan offers recently renovated and modernised Premium rooms (20m<sup>2</sup>) as well as
-          Standard rooms.
+          * L’Hotel de Grignan propose des chambres Premium récemment rénovées et modernisées (20m<sup>2</sup>) ainsi que des chambres standard.
         </p>
       </div>
     </div>

@@ -101,7 +101,7 @@
                   <li class="list-group-item">50€*, 43.50€</li>
                   <li class="list-group-item">89€*, 78€</li>
                   <li class="list-group-item">1.25€</li>
-                  <li class="list-group-item">Free (20 places)</li>
+                  <li class="list-group-item">Gratuit (20 places)</li>
                   <li class="list-group-item">7 place Sévigné</li>
                   <li class="list-group-item">+33 (0)4 70 32 08 11</li>
                 </ul>

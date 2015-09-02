@@ -110,7 +110,7 @@
               <li class="pricely-inner panel-info col-xs-6 col-md-3 text-center">
                 <h3 class="panel-heading">
                   <span class="pricely-label">Hotel Moderne<br />**
-                  </span> <a href="http://www.hotelmoderne-vichy.fr/" class="btn btn-info" target="_blank">Site web</a>
+                  </span> <a href="http://www.hotelmoderne-vichy.com/" class="btn btn-info" target="_blank">Site web</a>
                 </h3>
                 <ul class="list-group">
                   <li class="list-group-item">7 min.</li>

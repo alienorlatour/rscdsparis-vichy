@@ -42,6 +42,7 @@
             We have negotiated special offers with three of the hotels which are within walking distance of the Palais
             des Congrès. Details are given below. To obtain these special rates, when contacting the hotel to reserve
             rooms, please state that you are participating in the <b>Scottish Country Dancing Weekend, Easter 2016</b>.
+            The rates are only available through direct reservation with the hotel, not on websites such as Booking of Hotels.com.
           </p>
           <p>If you are travelling by car, few hotels have their own car park but public car parking is available at
             around 7€/10€ per night or check with the hotel on the ease of street parking.</p>

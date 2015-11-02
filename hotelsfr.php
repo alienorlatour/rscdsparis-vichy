@@ -41,7 +41,8 @@
           <p>
             Nous avons négocié des tarifs spéciaux avec trois des hôtels proches du Palais des Congrès (voir ci-dessous). 
             Pour bénéficier de ces tarifs, il suffit de mentionner à l’hôtel de votre choix que vous participez au 
-            weekend de danses écossaises de Pâques 2016.</b>.
+            weekend de danses écossaises de Pâques 2016. Ces offres ne sont disponibles qu'à travers une réservation 
+            directe auprès de l'hôtel et non par des sites de réservation tels que Booking ou Hotels.com.
           </p>
           <p>Peu d’hôtels ont leur propre parking, mais il y a des parkings publics de 7 à 10 euros la nuit, 
           et vous pouvez demander à votre hôtel s’il est possible de se garer dans la rue.</p>
